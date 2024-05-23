@@ -20,7 +20,7 @@ def create_app():
             except subprocess.CalledProcessError as e:
                 print(f"Error running test.py: {e}")        
     def schedule_loop():
-        schedule.every(180).minutes.do(run_test_script)
+        schedule.every(45).minutes.do(run_test_script)
 
         while True:
             schedule.run_pending()

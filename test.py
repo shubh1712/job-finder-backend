@@ -173,7 +173,7 @@ finally:
     client.disconnect()
 
     # Write data to JSON file
-    with open("D:/Projects/JobFinder/backend/data/test.json", "w") as json_file:
+    with open("data/test.json", "w") as json_file:
         json.dump(data, json_file, indent=4)
         print("Updates done")
 
