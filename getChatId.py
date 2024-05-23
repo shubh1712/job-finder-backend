@@ -35,7 +35,12 @@ chat_names = [
     "OffCampusJobs4u.com- India's #1 Off Campus Job Portal for Freshers.",
     "Go Careers",
     "DotAware: Off-Campus Tech Jobs 👨‍💻",
-    "Freshers Off Campus"
+    "Freshers Off Campus",
+    "Jobs/Internship/Hiring/ updates - Fresher / IT / Non-IT",
+    "INDIA Job Seekers (IJS)",
+    "Jobshob Nest / जॉबशोब नेस्ट",
+    "Fresherstech - Off Campus Drive Updates",
+    "HR Group India"
     ]
 
 client = TelegramClient('session_name', api_id, api_hash)
