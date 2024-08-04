@@ -8,9 +8,10 @@ import time as tm
 from telethon.sync import TelegramClient
 from flask_cors import CORS  # Import CORS from flask_cors
 
-
 def create_app():
+    
     app = Flask(__name__)
+
 
     CORS(app)
     def run_test_script():
@@ -20,7 +21,7 @@ def create_app():
             except subprocess.CalledProcessError as e:
                 print(f"Error running test.py: {e}")        
     def schedule_loop():
-        schedule.every(45).minutes.do(run_test_script)
+        schedule.every(180).minutes.do(run_test_script)
 
         while True:
             schedule.run_pending()
@@ -53,5 +54,5 @@ def create_app():
         app.run(debug=True)
         scheduler_thread.join()
 
-    
+   
     return app 
