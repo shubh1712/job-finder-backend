@@ -603,6 +603,116 @@
 
 
 
+# import re
+# from telethon.sync import TelegramClient
+# import datetime
+# import json
+# import subprocess
+# import requests
+# import os
+
+# # Ensure log directory exists
+# log_directory = r'D:\Projects\JobFinder\backend'
+# if not os.path.exists(log_directory):
+#     os.makedirs(log_directory)
+
+# print("Script started.")
+
+# api_id = 20183432
+# api_hash = 'a7ca0c26fd2e3ec7b400af99844156d3'
+# chats = []
+
+# def link_shorten(link):
+#     api_url = f"http://ouo.io/api/1QitLQLa?s={link}"
+#     response = requests.get(api_url)
+#     if response.status_code == 200:
+#         return response.text.strip()
+#     else:
+#         return f"Error: Unable to shorten the link, status code {response.status_code}"
+
+# def ordinal(number):
+#     if 10 <= number % 100 <= 20:
+#         suffix = 'th'
+#     else:
+#         suffix = {1: 'st', 2: 'nd', 3: 'rd'}.get(number % 10, 'th')
+#     return str(number) + suffix
+
+# try:
+#     # Read chat IDs from the JSON file
+#     chat_data_path = r"D:\Projects\JobFinder\backend\data\chat_data.json"
+#     print(f"Reading chat data from {chat_data_path}")
+#     with open(chat_data_path, "r") as chat_file:
+#         chat_data = json.load(chat_file)
+#         for chat in chat_data:
+#             chats.append(chat['id'])
+#         print("Fetched chat IDs")
+
+#     print("Initiating emergency self destroy protocol...")
+#     main_messages_path = r"D:\Projects\JobFinder\backend\data\main_messages1.json"
+#     with open(main_messages_path, "w") as test_file:
+#         test_file.truncate(0)
+
+#     client = TelegramClient("test", api_id, api_hash)
+
+#     data = []
+#     unique_links = set()
+
+#     print("Starting Telegram client")
+#     client.start()
+#     today = datetime.datetime.now().replace(hour=0, minute=0, second=0, microsecond=0)
+#     for chat_id in chats:
+#         for message in client.iter_messages(chat_id, reverse=True):
+#             message_date = message.date.replace(tzinfo=None)
+#             if today - datetime.timedelta(days=20) <= message_date < today:
+#                 if message.text:
+#                     links = re.findall(r'http[s]?://(?:[a-zA-Z]|[0-9]|[$-_@.&+]|[!*\\(\\),]|(?:%[0-9a-fA-F][0-9a-fA-F]))+', message.text)
+#                     for link in links:
+#                         if link not in unique_links:
+#                             unique_links.add(link)
+#                             links_str = ','.join(links)
+#                             formatted_date = f"{ordinal(message_date.day)} {message_date.strftime('%B')} {message_date.year}"
+#                             data.append({'group': chat_id, 'text': message.text, 'date': formatted_date, 'links': link_shorten(links_str)})
+
+#     print("Disconnecting Telegram client")
+#     client.disconnect()
+
+#     # Write data to JSON file
+#     print(f"Writing data to {main_messages_path}")
+#     with open(main_messages_path, "w") as json_file:
+#         json.dump(data, json_file, indent=4)
+#         print("New instance of Robo created and data saved")
+
+#     # Git operations: add, commit, and push changes
+#     repo_path = r"D:\Projects\JobFinder\backend"
+#     commit_message = "Automated commit from script - Updated Data"
+
+#     print("Running git add")
+#     result_add = subprocess.run(["git", "-C", repo_path, "add", "."], capture_output=True, text=True)
+#     print(result_add.stdout)
+#     print(result_add.stderr)
+
+#     print("Running git commit")
+#     result_commit = subprocess.run(["git", "-C", repo_path, "commit", "-m", commit_message], capture_output=True, text=True)
+#     print(result_commit.stdout)
+#     print(result_commit.stderr)
+
+#     print("Running git push")
+#     result_push = subprocess.run(["git", "-C", repo_path, "push"], capture_output=True, text=True)
+#     print(result_push.stdout)
+#     print(result_push.stderr)
+
+# except Exception as e:
+#     print(f"An error occurred: {e}")
+
+# print("Script ended.")
+
+
+
+
+
+
+
+
 import re
 from telethon.sync import TelegramClient
 import datetime
@@ -616,7 +726,16 @@ log_directory = r'D:\Projects\JobFinder\backend'
 if not os.path.exists(log_directory):
     os.makedirs(log_directory)
 
+log_file = os.path.join(log_directory, 'logfile.log')
+
+def log_message(message):
+    current_time = datetime.datetime.now().strftime("%Y-%m-%d %H:%M:%S")
+    with open(log_file, 'a') as f:
+        f.write(f"{current_time} - {message}\n")
+        f.write("\n")  # Add space between log entries
+
 print("Script started.")
+log_message("Script started.")
 
 api_id = 20183432
 api_hash = 'a7ca0c26fd2e3ec7b400af99844156d3'
@@ -641,13 +760,16 @@ try:
     # Read chat IDs from the JSON file
     chat_data_path = r"D:\Projects\JobFinder\backend\data\chat_data.json"
     print(f"Reading chat data from {chat_data_path}")
+    log_message(f"Reading chat data from {chat_data_path}")
     with open(chat_data_path, "r") as chat_file:
         chat_data = json.load(chat_file)
         for chat in chat_data:
             chats.append(chat['id'])
         print("Fetched chat IDs")
+        log_message("Fetched chat IDs")
 
     print("Initiating emergency self destroy protocol...")
+    log_message("Initiating emergency self destroy protocol...")
     main_messages_path = r"D:\Projects\JobFinder\backend\data\main_messages1.json"
     with open(main_messages_path, "w") as test_file:
         test_file.truncate(0)
@@ -658,6 +780,7 @@ try:
     unique_links = set()
 
     print("Starting Telegram client")
+    log_message("Starting Telegram client")
     client.start()
     today = datetime.datetime.now().replace(hour=0, minute=0, second=0, microsecond=0)
     for chat_id in chats:
@@ -674,35 +797,48 @@ try:
                             data.append({'group': chat_id, 'text': message.text, 'date': formatted_date, 'links': link_shorten(links_str)})
 
     print("Disconnecting Telegram client")
+    log_message("Disconnecting Telegram client")
     client.disconnect()
 
     # Write data to JSON file
     print(f"Writing data to {main_messages_path}")
+    log_message(f"Writing data to {main_messages_path}")
     with open(main_messages_path, "w") as json_file:
         json.dump(data, json_file, indent=4)
         print("New instance of Robo created and data saved")
+        log_message("New instance of Robo created and data saved")
 
     # Git operations: add, commit, and push changes
     repo_path = r"D:\Projects\JobFinder\backend"
     commit_message = "Automated commit from script - Updated Data"
 
     print("Running git add")
+    log_message("Running git add")
     result_add = subprocess.run(["git", "-C", repo_path, "add", "."], capture_output=True, text=True)
     print(result_add.stdout)
     print(result_add.stderr)
+    log_message(result_add.stdout)
+    log_message(result_add.stderr)
 
     print("Running git commit")
+    log_message("Running git commit")
     result_commit = subprocess.run(["git", "-C", repo_path, "commit", "-m", commit_message], capture_output=True, text=True)
     print(result_commit.stdout)
     print(result_commit.stderr)
+    log_message(result_commit.stdout)
+    log_message(result_commit.stderr)
 
     print("Running git push")
+    log_message("Running git push")
     result_push = subprocess.run(["git", "-C", repo_path, "push"], capture_output=True, text=True)
     print(result_push.stdout)
     print(result_push.stderr)
+    log_message(result_push.stdout)
+    log_message(result_push.stderr)
 
 except Exception as e:
     print(f"An error occurred: {e}")
+    log_message(f"An error occurred: {e}")
 
 print("Script ended.")
-
+log_message("Script ended.")
