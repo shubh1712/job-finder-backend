@@ -132,3 +132,34 @@ Starting Telegram client
 An error occurred: Connection to Telegram failed 5 time(s)
 Script ended.
 Python script ran successfully. 
+Script started.
+Reading chat data from D:\Projects\JobFinder\backend\data\chat_data.json
+Fetched chat IDs
+Initiating emergency self destroy protocol...
+Starting Telegram client
+Disconnecting Telegram client
+Writing data to D:\Projects\JobFinder\backend\data\main_messages1.json
+New instance of Robo created and data saved
+Running git add
+
+
+Running git commit
+[main 005e2f7] Automated commit from script - Updated Data
+ 3 files changed, 392 insertions(+), 319 deletions(-)
+
+
+Running git push
+
+To https://github.com/shubh1712/job-finder-backend.git
+   434709b..005e2f7  main -> main
+
+Script ended.
+Python script ran successfully. 
+Script started.
+Reading chat data from D:\Projects\JobFinder\backend\data\chat_data.json
+Fetched chat IDs
+Initiating emergency self destroy protocol...
+Starting Telegram client
+An error occurred: HTTPSConnectionPool(host='ouo.io', port=443): Max retries exceeded with url: /api/1QitLQLa?s=https://www.fresherstech.com/wipro-off-campus/,https://www.fresherstech.com/qualcomm-off-campus/,https://www.fresherstech.com/accenture-off-campus/,https://www.fresherstech.com/united-airlines-off-campus/,https://www.fresherstech.com/flowserve-off-campus/,https://www.fresherstech.com/amazon-off-campus/,https://www.fresherstech.com/beckman-coulter-diagnostics-internship/,https://www.fresherstech.com/pwc-off-campus/,https://www.fresherstech.com/ibm-off-campus/,https://www.fresherstech.com/allstate-off-campus/,https://www.fresherstech.com/crisil-internship/,https://www.fresherstech.com/hpe-off-campus/,https://www.fresherstech.com/citigroup-off-campus/,https://www.fresherstech.com/icf-off-campus/,https://www.fresherstech.com/abb-off-campus/,https://whatsapp.com/channel/0029VaABSZWEawdygYF5wI07,https://t.me/fresherstechofficial (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1006)')))
+Script ended.
+Python script ran successfully. 
