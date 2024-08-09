@@ -163,3 +163,54 @@ Starting Telegram client
 An error occurred: HTTPSConnectionPool(host='ouo.io', port=443): Max retries exceeded with url: /api/1QitLQLa?s=https://www.fresherstech.com/wipro-off-campus/,https://www.fresherstech.com/qualcomm-off-campus/,https://www.fresherstech.com/accenture-off-campus/,https://www.fresherstech.com/united-airlines-off-campus/,https://www.fresherstech.com/flowserve-off-campus/,https://www.fresherstech.com/amazon-off-campus/,https://www.fresherstech.com/beckman-coulter-diagnostics-internship/,https://www.fresherstech.com/pwc-off-campus/,https://www.fresherstech.com/ibm-off-campus/,https://www.fresherstech.com/allstate-off-campus/,https://www.fresherstech.com/crisil-internship/,https://www.fresherstech.com/hpe-off-campus/,https://www.fresherstech.com/citigroup-off-campus/,https://www.fresherstech.com/icf-off-campus/,https://www.fresherstech.com/abb-off-campus/,https://whatsapp.com/channel/0029VaABSZWEawdygYF5wI07,https://t.me/fresherstechofficial (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1006)')))
 Script ended.
 Python script ran successfully. 
+Script started.
+Reading chat data from D:\Projects\JobFinder\backend\data\chat_data.json
+Fetched chat IDs
+Initiating emergency self destroy protocol...
+Starting Telegram client
+Disconnecting Telegram client
+Writing data to D:\Projects\JobFinder\backend\data\main_messages1.json
+New instance of Robo created and data saved
+Running git add
+
+
+Running git commit
+[main 6819f08] Automated commit from script - Updated Data
+ 3 files changed, 201 insertions(+), 170 deletions(-)
+
+
+Running git push
+
+To https://github.com/shubh1712/job-finder-backend.git
+   005e2f7..6819f08  main -> main
+
+Script ended.
+Python script ran successfully. 
+Script started.
+Reading chat data from D:\Projects\JobFinder\backend\data\chat_data.json
+Fetched chat IDs
+Initiating emergency self destroy protocol...
+Starting Telegram client
+An error occurred: HTTPSConnectionPool(host='ouo.io', port=443): Max retries exceeded with url: /api/1QitLQLa?s=https://jobs.lever.co/zeotap/bd4ec452-d10b-4fcc-ba42-621bc93a1b6f/****,https://whatsapp.com/channel/0029Va5HM3OEAKWJT2QLQt33** (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1006)')))
+Script ended.
+Python script ran successfully. 
+Attempt 1 at connecting failed: TimeoutError: 
+Attempt 1 at connecting failed: TimeoutError: 
+Attempt 2 at connecting failed: TimeoutError: 
+Security error while unpacking a received message: Server replied with a wrong session ID (see FAQ for details)
+Script started.
+Reading chat data from D:\Projects\JobFinder\backend\data\chat_data.json
+Fetched chat IDs
+Initiating emergency self destroy protocol...
+Starting Telegram client
+An error occurred: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+Script ended.
+Python script ran successfully. 
+Script started.
+Reading chat data from D:\Projects\JobFinder\backend\data\chat_data.json
+Fetched chat IDs
+Initiating emergency self destroy protocol...
+Starting Telegram client
+An error occurred: HTTPConnectionPool(host='ouo.io', port=80): Read timed out. (read timeout=None)
+Script ended.
+Python script ran successfully. 
