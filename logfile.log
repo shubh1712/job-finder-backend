@@ -1144,3 +1144,28 @@ To https://github.com/shubh1712/job-finder-backend.git
 
 Script ended.
 Python script ran successfully. 
+Script started.
+Reading chat data from D:\Projects\JobFinder\backend\data\chat_data.json
+Fetched chat IDs
+Initiating emergency self destroy protocol...
+Starting Telegram client
+Disconnecting Telegram client
+Writing data to D:\Projects\JobFinder\backend\data\main_messages1.json
+New instance of Robo created and data saved
+Running git add
+
+
+Running git commit
+[main 902aece] Automated commit from script - Updated Data
+ 3 files changed, 208 insertions(+), 197 deletions(-)
+
+
+Running git push
+
+To https://github.com/shubh1712/job-finder-backend.git
+   6ad82e0..902aece  main -> main
+
+Script ended.
+Python script ran successfully. 
+Server closed the connection: [WinError 1236] The network connection was aborted by the local system
+Attempt 1 at connecting failed: OSError: [WinError 1232] The network location cannot be reached. For information about network troubleshooting, see Windows Help
