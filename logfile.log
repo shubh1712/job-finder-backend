@@ -1283,3 +1283,34 @@ Starting Telegram client
 An error occurred: ('Connection aborted.', ConnectionAbortedError(10053, 'An established connection was aborted by the software in your host machine', None, 10053, None))
 Script ended.
 Python script ran successfully. 
+Script started.
+Reading chat data from D:\Projects\JobFinder\backend\data\chat_data.json
+Fetched chat IDs
+Initiating emergency self destroy protocol...
+Starting Telegram client
+Disconnecting Telegram client
+Writing data to D:\Projects\JobFinder\backend\data\main_messages1.json
+New instance of Robo created and data saved
+Running git add
+
+
+Running git commit
+[main 34adcde] Automated commit from script - Updated Data
+ 3 files changed, 2238 insertions(+), 1473 deletions(-)
+
+
+Running git push
+
+To https://github.com/shubh1712/job-finder-backend.git
+   a2215ef..34adcde  main -> main
+
+Script ended.
+Python script ran successfully. 
+Script started.
+Reading chat data from D:\Projects\JobFinder\backend\data\chat_data.json
+Fetched chat IDs
+Initiating emergency self destroy protocol...
+Starting Telegram client
+An error occurred: HTTPConnectionPool(host='ouo.io', port=80): Max retries exceeded with url: /api/1QitLQLa?s=https://www.linkedin.com/feed/update/urn:li:activity:7234839729135894528/ (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x000002692392F010>: Failed to resolve 'ouo.io' ([Errno 11001] getaddrinfo failed)"))
+Script ended.
+Python script ran successfully. 
