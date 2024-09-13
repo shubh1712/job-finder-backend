@@ -1387,3 +1387,30 @@ Starting Telegram client
 An error occurred: Request was unsuccessful 6 time(s)
 Script ended.
 Python script ran successfully. 
+Attempt 1 at connecting failed: TimeoutError: 
+Server closed the connection: [WinError 64] The specified network name is no longer available
+Server closed the connection: [WinError 64] The specified network name is no longer available
+Attempt 1 at connecting failed: TimeoutError: 
+Script started.
+Reading chat data from D:\Projects\JobFinder\backend\data\chat_data.json
+Fetched chat IDs
+Initiating emergency self destroy protocol...
+Starting Telegram client
+Disconnecting Telegram client
+Writing data to D:\Projects\JobFinder\backend\data\main_messages1.json
+New instance of Robo created and data saved
+Running git add
+
+
+Running git commit
+[main 752c25c] Automated commit from script - Updated Data
+ 3 files changed, 539 insertions(+), 280 deletions(-)
+
+
+Running git push
+
+To https://github.com/shubh1712/job-finder-backend.git
+   7abd956..752c25c  main -> main
+
+Script ended.
+Python script ran successfully. 
