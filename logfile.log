@@ -1533,3 +1533,134 @@ Starting Telegram client
 An error occurred: HTTPSConnectionPool(host='ouo.io', port=443): Read timed out. (read timeout=None)
 Script ended.
 Python script ran successfully. 
+Script started.
+Reading chat data from D:\Projects\JobFinder\backend\data\chat_data.json
+Fetched chat IDs
+Initiating emergency self destroy protocol...
+Starting Telegram client
+Disconnecting Telegram client
+Writing data to D:\Projects\JobFinder\backend\data\main_messages1.json
+New instance of Robo created and data saved
+Running git add
+
+
+Running git commit
+[main 65ddf71] Automated commit from script - Updated Data
+ 3 files changed, 1079 insertions(+), 1004 deletions(-)
+
+
+Running git push
+
+To https://github.com/shubh1712/job-finder-backend.git
+   bc4d630..65ddf71  main -> main
+
+Script ended.
+Python script ran successfully. 
+Server closed the connection: [WinError 1236] The network connection was aborted by the local system
+Server closed the connection: [WinError 1236] The network connection was aborted by the local system
+Attempt 1 at connecting failed: OSError: [WinError 1232] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+Script started.
+Reading chat data from D:\Projects\JobFinder\backend\data\chat_data.json
+Fetched chat IDs
+Initiating emergency self destroy protocol...
+Starting Telegram client
+An error occurred: HTTPSConnectionPool(host='ouo.io', port=443): Read timed out. (read timeout=None)
+Script ended.
+Python script ran successfully. 
+Attempt 1 at connecting failed: TimeoutError: 
+Server closed the connection: [WinError 1236] The network connection was aborted by the local system
+Server closed the connection: [WinError 1236] The network connection was aborted by the local system
+Attempt 1 at connecting failed: OSError: [WinError 1231] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+Attempt 1 at connecting failed: OSError: [WinError 1231] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+Attempt 2 at connecting failed: OSError: [WinError 1231] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+Attempt 3 at connecting failed: OSError: [WinError 1231] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+Attempt 4 at connecting failed: OSError: [WinError 1231] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+Attempt 5 at connecting failed: OSError: [WinError 1231] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+Attempt 6 at connecting failed: OSError: [WinError 1231] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+Script started.
+Reading chat data from D:\Projects\JobFinder\backend\data\chat_data.json
+Fetched chat IDs
+Initiating emergency self destroy protocol...
+Starting Telegram client
+An error occurred: Connection to Telegram failed 5 time(s)
+Script ended.
+Python script ran successfully. 
+Script started.
+Reading chat data from D:\Projects\JobFinder\backend\data\chat_data.json
+Fetched chat IDs
+Initiating emergency self destroy protocol...
+Starting Telegram client
+An error occurred: HTTPSConnectionPool(host='ouo.io', port=443): Max retries exceeded with url: /api/1QitLQLa?s=https://youtube.com/@qtomation) (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1006)')))
+Script ended.
+Python script ran successfully. 
+Script started.
+Reading chat data from D:\Projects\JobFinder\backend\data\chat_data.json
+Fetched chat IDs
+Initiating emergency self destroy protocol...
+Starting Telegram client
+An error occurred: HTTPSConnectionPool(host='ouo.io', port=443): Max retries exceeded with url: /api/1QitLQLa?s=https://www.linkedin.com/posts/azim-premji-foundation_qualityeducation-publiceducation-socialsectorjobs-activity-7239852789844082688-_lpP?utm_source=share&utm_medium=member_desktop (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1006)')))
+Script ended.
+Python script ran successfully. 
+Attempt 1 at connecting failed: TimeoutError: 
+Script started.
+Reading chat data from D:\Projects\JobFinder\backend\data\chat_data.json
+Fetched chat IDs
+Initiating emergency self destroy protocol...
+Starting Telegram client
+An error occurred: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+Script ended.
+Python script ran successfully. 
+Attempt 1 at connecting failed: TimeoutError: 
+Script started.
+Reading chat data from D:\Projects\JobFinder\backend\data\chat_data.json
+Fetched chat IDs
+Initiating emergency self destroy protocol...
+Starting Telegram client
+An error occurred: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+Script ended.
+Python script ran successfully. 
+Script started.
+Reading chat data from D:\Projects\JobFinder\backend\data\chat_data.json
+Fetched chat IDs
+Initiating emergency self destroy protocol...
+Starting Telegram client
+An error occurred: HTTPSConnectionPool(host='ouo.io', port=443): Max retries exceeded with url: /api/1QitLQLa?s=https://offcampusjobs4u.com/quest-global-off-campus-drive-2024-hiring-for-trainee/**,https://bit.ly/48V2BTI****,https://bit.ly/3gaecrd****,https://telegram.me/offcampusjobs4u****,https://bit.ly/3WvWjTD** (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1006)')))
+Script ended.
+Python script ran successfully. 
+Attempt 1 at connecting failed: TimeoutError: 
+Server sent a very old message with ID 7419729256053031953, ignoring (see FAQ for details)
+Server closed the connection: [WinError 1236] The network connection was aborted by the local system
+Server sent a very old message with ID 7419729297894505473, ignoring (see FAQ for details)
+Security error while unpacking a received message: Server replied with a wrong session ID (see FAQ for details)
+Script started.
+Reading chat data from D:\Projects\JobFinder\backend\data\chat_data.json
+Fetched chat IDs
+Initiating emergency self destroy protocol...
+Starting Telegram client
+An error occurred: HTTPSConnectionPool(host='ouo.io', port=443): Max retries exceeded with url: /api/1QitLQLa?s=https://getngojobs.org/jobs/fundraising-and-communications-manager-ngo-jobs-in-india,https://getngojobs.org/jobs/grameen-sahayak-sales-officer-ngo-jobs-in-india-3322,https://getngojobs.org/jobs/grameen-sahayak-sales-officer-ngo-jobs-in-india,https://getngojobs.org/jobs/soft-skills-trainer-ngo-jobs-in-india,https://getngojobs.org/jobs/center-manager-ngo-jobs-in-india-3319,https://getngojobs.org/jobs/project-program-manager-ngo-jobs-in-india,https://getngojobs.org/jobs/trainer-ngo-jobs-in-india-3317,https://t.me/getngojob,https://www.linkedin.com/in/pradeep-pachouri-910b31228?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app,https://whatsapp.com/channel/0029VajloZx3QxS1o25Lz405 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1006)')))
+Script ended.
+Python script ran successfully. 
+Script started.
+Reading chat data from D:\Projects\JobFinder\backend\data\chat_data.json
+Fetched chat IDs
+Initiating emergency self destroy protocol...
+Starting Telegram client
+An error occurred: HTTPSConnectionPool(host='ouo.io', port=443): Max retries exceeded with url: /api/1QitLQLa?s=https://www.linkedin.com/posts/ruchi-meena-768500176_jobsearch-recruitmenttips-careeradvice-activity-7238417976293531648-Mpiw,https://www.linkedin.com/posts/path-builder_hiring-fellows-fellowship-activity-7238760128164904960-vRRX?utm_source=share&utm_medium=member_desktop,https://www.linkedin.com/posts/teach-for-india_join-us-as-a-design-intern-are-you-a-creative-activity-7238810188693094400-w1By?utm_source=share&utm_medium=member_desktop,https://www.linkedin.com/posts/farhan-andaleeb-10019911_we-are-hiring-following-positions-are-currently-activity-7238873130725744640-_9W2?utm_source=share&utm_medium=member_desktop,https://www.linkedin.com/posts/social-impact-and-development-communication-centre_hiringnow-hiring-jobsearch-activity-7238833618825994240-2BmI?utm_source=share&utm_medium=member_desktop,https://www.linkedin.com/posts/jayant-ruthe-8770381ba_were-hiring-join-us-at-trrain-as-an-executive-activity-7237361087409471491-mugG?utm_source=share&utm_medium=member_desktop,https://www.linkedin.com/posts/nisgsmartgov_consultant-corporate-communication-bbnl-activity-7238803727711621123-y72k?utm_source=share&utm_medium=member_desktop,https://www.linkedin.com/posts/vvengadesan_udhyam-vyapaar-is-hiring-a-monitoring-evaluation-activity-7238842980189511682-UkOM?utm_source=share&utm_medium=member_desktop,https://www.linkedin.com/posts/jenicobbsorensen_program-coordinator-ipa-sector-programs-activity-7238904286745653248-MV55?utm_source=share&utm_medium=member_desktop,https://www.linkedin.com/posts/youthdreamersfoundation_hiringnow-joinourteam-careeropportunities-activity-7237783001177161728-FgH2?utm_source=share&utm_medium=member_desktop,https://www.linkedin.com/posts/ennhri_humanrights-european-jobalert-activity-7238930410582286336-3cHo?utm_source=share&utm_medium=member_desktop,https://www.linkedin.com/feed/update/urn:li:activity:7238776595161739264/,https://www.linkedin.com/posts/isd-center_hiring-newjob-researcher-activity-7238803441039376385-psJP?utm_source=share&utm_medium=member_desktop,https://www.linkedin.com/feed/update/urn:li:activity:7236581291314290688/,https://www.linkedin.com/posts/archana-bhattacharya-a7118616_operations-ugcPost-7236694368944873472-4JBh?utm_source=share&utm_medium=member_desktop,https://www.linkedin.com/posts/shreya-r-b0486820a_careers-activity-7239166851572727810-KwKf?utm_source=share&utm_medium=member_desktop,https://www.linkedin.com/posts/satyender-singh_gev-hire-ugcPost-7238934597856641024-QPeN?utm_source=share&utm_medium=member_desktop,https://www.linkedin.com/posts/shikshalokam_hiring-ui-designer-activity-7238848635604496385-Mgjb?utm_source=share&utm_medium=member_desktop,https://www.linkedin.com/posts/village-social-transformation-foundation_taluka-coordinators-program-activity-7238219466969411584-O7ud?utm_source=share&utm_medium=member_desktop,https://www.linkedin.com/posts/sustainable-futures-collaborative_hiring-activity-7238777957954035712-KPKE?utm_source=share&utm_medium=member_desktop,https://www.linkedin.com/posts/the-samhita-academy-info_are-you-passionate-about-education-and-ready-activity-7237786133684740096-g8e-?utm_source=share&utm_medium=member_desktop,https://www.linkedin.com/posts/shirin-kaul-469a081b2_education-teachercoaching-instructionaldesign-ugcPost-7237415640272125952-CGvL?utm_source=share&utm_medium=member_desktop,https://www.linkedin.com/posts/sejal-kandalgaonkar-83248a6a_hr-recruiter-activity-7239139714463629312-9c_z?utm_source=share&utm_medium=member_desktop (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1006)')))
+Script ended.
+Python script ran successfully. 
+Script started.
+Reading chat data from D:\Projects\JobFinder\backend\data\chat_data.json
+Fetched chat IDs
+Initiating emergency self destroy protocol...
+Starting Telegram client
+An error occurred: HTTPSConnectionPool(host='ouo.io', port=443): Read timed out. (read timeout=None)
+Script ended.
+Python script ran successfully. 
+Script started.
+Reading chat data from D:\Projects\JobFinder\backend\data\chat_data.json
+Fetched chat IDs
+Initiating emergency self destroy protocol...
+Starting Telegram client
+An error occurred: HTTPSConnectionPool(host='ouo.io', port=443): Max retries exceeded with url: /api/1QitLQLa?s=https://www.linkedin.com/feed/update/urn:li:activity:7241773025371586560/ (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1006)')))
+Script ended.
+Python script ran successfully. 
