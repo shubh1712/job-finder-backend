@@ -1729,3 +1729,44 @@ To https://github.com/shubh1712/job-finder-backend.git
 
 Script ended.
 Python script ran successfully. 
+Script started.
+Reading chat data from D:\Projects\JobFinder\backend\data\chat_data.json
+Fetched chat IDs
+Initiating emergency self destroy protocol...
+Starting Telegram client
+Disconnecting Telegram client
+Writing data to D:\Projects\JobFinder\backend\data\main_messages1.json
+New instance of Robo created and data saved
+Running git add
+
+
+Running git commit
+[main 2320520] Automated commit from script - Updated Data
+ 3 files changed, 57 insertions(+), 33 deletions(-)
+
+
+Running git push
+
+To https://github.com/shubh1712/job-finder-backend.git
+   bb60173..2320520  main -> main
+
+Script ended.
+Python script ran successfully. 
+Server closed the connection: [WinError 1236] The network connection was aborted by the local system
+Server resent the older message 7421618632775584769, ignoring
+Script started.
+Reading chat data from D:\Projects\JobFinder\backend\data\chat_data.json
+Fetched chat IDs
+Initiating emergency self destroy protocol...
+Starting Telegram client
+An error occurred: HTTPSConnectionPool(host='ouo.io', port=443): Max retries exceeded with url: /api/1QitLQLa?s=https://www.linkedin.com/posts/pradeep-pachouri-910b31228_hiring-org-location-activity-7246482010486022145-1L1Z?utm_source=share&utm_medium=member_android (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000001378F3DC110>: Failed to establish a new connection: [WinError 10065] A socket operation was attempted to an unreachable host'))
+Script ended.
+Python script ran successfully. 
+Script started.
+Reading chat data from D:\Projects\JobFinder\backend\data\chat_data.json
+Fetched chat IDs
+Initiating emergency self destroy protocol...
+Starting Telegram client
+An error occurred: ('Connection aborted.', ConnectionAbortedError(10053, 'An established connection was aborted by the software in your host machine', None, 10053, None))
+Script ended.
+Python script ran successfully. 
