@@ -2000,3 +2000,34 @@ Starting Telegram client
 An error occurred: HTTPSConnectionPool(host='ouo.io', port=443): Max retries exceeded with url: /api/1QitLQLa?s=https://www.linkedin.com/feed/update/urn:li:activity:7246470240685989888/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_recent_activity_content_view%3B8JvYDcSzRzWVIi%2BPjMC5OA%3D%3D (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1006)')))
 Script ended.
 Python script ran successfully. 
+Script started.
+Reading chat data from D:\Projects\JobFinder\backend\data\chat_data.json
+Fetched chat IDs
+Initiating emergency self destroy protocol...
+Starting Telegram client
+Disconnecting Telegram client
+Writing data to D:\Projects\JobFinder\backend\data\main_messages1.json
+New instance of Robo created and data saved
+Running git add
+
+
+Running git commit
+[main ce15402] Automated commit from script - Updated Data
+ 3 files changed, 516 insertions(+), 336 deletions(-)
+
+
+Running git push
+
+To https://github.com/shubh1712/job-finder-backend.git
+   fb51d61..ce15402  main -> main
+
+Script ended.
+Python script ran successfully. 
+Script started.
+Reading chat data from D:\Projects\JobFinder\backend\data\chat_data.json
+Fetched chat IDs
+Initiating emergency self destroy protocol...
+Starting Telegram client
+An error occurred: HTTPSConnectionPool(host='ouo.io', port=443): Read timed out. (read timeout=None)
+Script ended.
+Python script ran successfully. 
