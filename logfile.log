@@ -3035,4 +3035,71 @@ Server sent a very new message with ID 7439776286298339333, ignoring (see FAQ fo
 Server sent a very new message with ID 7439776286340796425, ignoring (see FAQ for details)
 Server sent a very new message with ID 7439776286394099713, ignoring (see FAQ for details)
 Server resent the older message 7440118509386034177, ignoring
-^C
+^CAttempt 1 at connecting failed: TimeoutError: 
+Server resent the older message 7440396879128051713, ignoring
+Script started.
+Reading chat data from D:\Projects\JobFinder\backend\data\chat_data.json
+Fetched chat IDs
+Initiating emergency self destroy protocol...
+Starting Telegram client
+Disconnecting Telegram client
+Writing data to D:\Projects\JobFinder\backend\data\main_messages1.json
+New instance of Robo created and data saved
+Running git add
+
+
+Running git commit
+[main 95af038] Automated commit from script - Updated Data
+ 3 files changed, 2480 insertions(+), 3375 deletions(-)
+
+
+Running git push
+
+To https://github.com/shubh1712/job-finder-backend.git
+   8d9bde6..95af038  main -> main
+
+Script ended.
+Python script ran successfully. 
+Server sent a very new message with ID 7440836740448952325, ignoring (see FAQ for details)
+Server sent a very new message with ID 7440836740493390849, ignoring (see FAQ for details)
+Server closed the connection: 0 bytes read on a total of 8 expected bytes
+Server sent a very new message with ID 7440842059619246089, ignoring (see FAQ for details)
+Server sent a very new message with ID 7440842059853913097, ignoring (see FAQ for details)
+Server sent a very new message with ID 7440842059915375617, ignoring (see FAQ for details)
+Server sent a very new message with ID 7440843646078562329, ignoring (see FAQ for details)
+Server sent a very new message with ID 7440843646078646273, ignoring (see FAQ for details)
+Server sent a very new message with ID 7440843651405818881, ignoring (see FAQ for details)
+Server closed the connection: 0 bytes read on a total of 8 expected bytes
+Server sent a very new message with ID 7440847269300109317, ignoring (see FAQ for details)
+Server sent a very new message with ID 7440847269351194633, ignoring (see FAQ for details)
+Server sent a very new message with ID 7440847269384201217, ignoring (see FAQ for details)
+Server sent a very new message with ID 7440847269384255489, ignoring (see FAQ for details)
+Server sent a very new message with ID 7440847595338475521, ignoring (see FAQ for details)
+Server sent a very new message with ID 7440848497304224773, ignoring (see FAQ for details)
+Server sent a very new message with ID 7440848497304224769, ignoring (see FAQ for details)
+Server sent a very new message with ID 7440849014531840001, ignoring (see FAQ for details)
+Server sent a very new message with ID 7440849024198859777, ignoring (see FAQ for details)
+Server sent a very new message with ID 7440849864769998849, ignoring (see FAQ for details)
+Security error while unpacking a received message: Too many messages had to be ignored consecutively
+Server sent a very new message with ID 7440849887345649665, ignoring (see FAQ for details)
+Security error while unpacking a received message: Too many messages had to be ignored consecutively
+Server sent a very new message with ID 7440849892847832065, ignoring (see FAQ for details)
+Security error while unpacking a received message: Too many messages had to be ignored consecutively
+Server sent a very new message with ID 7440851619555286029, ignoring (see FAQ for details)
+Security error while unpacking a received message: Too many messages had to be ignored consecutively
+Server sent a very new message with ID 7440851619555374085, ignoring (see FAQ for details)
+Security error while unpacking a received message: Too many messages had to be ignored consecutively
+Server sent a very new message with ID 7440851619555374081, ignoring (see FAQ for details)
+Security error while unpacking a received message: Too many messages had to be ignored consecutively
+Server sent a very new message with ID 7440851619555286033, ignoring (see FAQ for details)
+Security error while unpacking a received message: Too many messages had to be ignored consecutively
+Server closed the connection: 0 bytes read on a total of 8 expected bytes
+Server resent the older message 7440852078526742529, ignoring
+Server sent a very new message with ID 7440852079416619013, ignoring (see FAQ for details)
+Server sent a very new message with ID 7440852079454509057, ignoring (see FAQ for details)
+Server sent a very new message with ID 7440852079487122433, ignoring (see FAQ for details)
+Server sent a very new message with ID 7440852079519638529, ignoring (see FAQ for details)
+Server sent a very new message with ID 7440852521215425545, ignoring (see FAQ for details)
+Server sent a very new message with ID 7440852521215493121, ignoring (see FAQ for details)
+Server sent a very new message with ID 7440852521215425549, ignoring (see FAQ for details)
+Server sent a very new message with ID 7440852762178131969, ignoring (see FAQ for details)
