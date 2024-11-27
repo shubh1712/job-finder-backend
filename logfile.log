@@ -3128,3 +3128,26 @@ To https://github.com/shubh1712/job-finder-backend.git
 Script ended.
 Python script ran successfully. 
 Server resent the older message 7440929690659630081, ignoring
+Script started.
+Reading chat data from D:\Projects\JobFinder\backend\data\chat_data.json
+Fetched chat IDs
+Initiating emergency self destroy protocol...
+Starting Telegram client
+Disconnecting Telegram client
+Writing data to D:\Projects\JobFinder\backend\data\main_messages1.json
+New instance of Robo created and data saved
+Running git add
+
+
+Running git commit
+[main 142c1c8] Automated commit from script - Updated Data
+ 3 files changed, 827 insertions(+), 928 deletions(-)
+
+
+Running git push
+
+To https://github.com/shubh1712/job-finder-backend.git
+   91a1115..142c1c8  main -> main
+
+Script ended.
+Python script ran successfully. 
