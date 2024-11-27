@@ -3103,3 +3103,28 @@ Server sent a very new message with ID 7440852521215425545, ignoring (see FAQ fo
 Server sent a very new message with ID 7440852521215493121, ignoring (see FAQ for details)
 Server sent a very new message with ID 7440852521215425549, ignoring (see FAQ for details)
 Server sent a very new message with ID 7440852762178131969, ignoring (see FAQ for details)
+Server resent the older message 7440897421834037249, ignoring
+Script started.
+Reading chat data from D:\Projects\JobFinder\backend\data\chat_data.json
+Fetched chat IDs
+Initiating emergency self destroy protocol...
+Starting Telegram client
+Disconnecting Telegram client
+Writing data to D:\Projects\JobFinder\backend\data\main_messages1.json
+New instance of Robo created and data saved
+Running git add
+
+
+Running git commit
+[main 91a1115] Automated commit from script - Updated Data
+ 3 files changed, 554 insertions(+), 451 deletions(-)
+
+
+Running git push
+
+To https://github.com/shubh1712/job-finder-backend.git
+   95af038..91a1115  main -> main
+
+Script ended.
+Python script ran successfully. 
+Server resent the older message 7440929690659630081, ignoring
