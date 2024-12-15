@@ -3200,3 +3200,54 @@ To https://github.com/shubh1712/job-finder-backend.git
 
 Script ended.
 Python script ran successfully. 
+Script started.
+Reading chat data from D:\Projects\JobFinder\backend\data\chat_data.json
+Fetched chat IDs
+Initiating emergency self destroy protocol...
+Starting Telegram client
+Disconnecting Telegram client
+Writing data to D:\Projects\JobFinder\backend\data\main_messages1.json
+New instance of Robo created and data saved
+Running git add
+
+
+Running git commit
+[main 566247d] Automated commit from script - Updated Data
+ 3 files changed, 111 insertions(+), 88 deletions(-)
+
+
+Running git push
+
+To https://github.com/shubh1712/job-finder-backend.git
+   d5f03b4..566247d  main -> main
+
+Script ended.
+Python script ran successfully. 
+Server closed the connection: [WinError 1236] The network connection was aborted by the local system
+Attempt 1 at connecting failed: OSError: [WinError 1231] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+Attempt 2 at connecting failed: OSError: [WinError 1231] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+Attempt 1 at connecting failed: TimeoutError: 
+Server resent the older message 7444800827572930561, ignoring
+Server closed the connection: [WinError 1236] The network connection was aborted by the local system
+Server sent a very old message with ID 7444804015924600833, ignoring (see FAQ for details)
+Server sent a very old message with ID 7444804155677969409, ignoring (see FAQ for details)
+Attempt 1 at connecting failed: TimeoutError: 
+Attempt 2 at connecting failed: TimeoutError: 
+Attempt 3 at connecting failed: TimeoutError: 
+Script started.
+Reading chat data from D:\Projects\JobFinder\backend\data\chat_data.json
+Fetched chat IDs
+Initiating emergency self destroy protocol...
+Starting Telegram client
+An error occurred: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+Script ended.
+Python script ran successfully. 
+Server resent the older message 7448280200333173761, ignoring
+Script started.
+Reading chat data from D:\Projects\JobFinder\backend\data\chat_data.json
+Fetched chat IDs
+Initiating emergency self destroy protocol...
+Starting Telegram client
+An error occurred: HTTPSConnectionPool(host='ouo.io', port=443): Max retries exceeded with url: /api/1QitLQLa?s=https://careers.ibm.com/job/21227059/ai-engineer-bangalore-in (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1006)')))
+Script ended.
+Python script ran successfully. 
