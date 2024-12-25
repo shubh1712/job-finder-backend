@@ -3382,3 +3382,27 @@ Initiating emergency self destroy protocol...
 Starting Telegram client
 An error occurred: Connection to Telegram failed 5 time(s)
 Script ended.
+Server resent the older message 7450806436758053889, ignoring
+Script started.
+Reading chat data from D:\Projects\JobFinder\backend\data\chat_data.json
+Fetched chat IDs
+Initiating emergency self destroy protocol...
+Starting Telegram client
+Disconnecting Telegram client
+Writing data to D:\Projects\JobFinder\backend\data\main_messages1.json
+New instance of Robo created and data saved
+Running git add
+
+
+Running git commit
+[main 1e5fe6e] Automated commit from script - Updated Data
+ 3 files changed, 1279 insertions(+), 2732 deletions(-)
+
+
+Running git push
+
+To https://github.com/shubh1712/job-finder-backend.git
+   cc035d6..1e5fe6e  main -> main
+
+Script ended.
+Python script ran successfully. 
