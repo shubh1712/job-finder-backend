@@ -3620,3 +3620,70 @@ fatal: unable to access 'https://github.com/shubh1712/job-finder-backend.git/': 
 
 Script ended.
 Python script ran successfully. 
+Script started.
+Reading chat data from D:\Projects\JobFinder\backend\data\chat_data.json
+Fetched chat IDs
+Initiating emergency self destroy protocol...
+Starting Telegram client
+Disconnecting Telegram client
+Writing data to D:\Projects\JobFinder\backend\data\main_messages1.json
+New instance of Robo created and data saved
+Running git add
+
+
+Running git commit
+[main 7787075] Automated commit from script - Updated Data
+ 3 files changed, 251 insertions(+), 192 deletions(-)
+
+
+Running git push
+
+To https://github.com/shubh1712/job-finder-backend.git
+   801874f..7787075  main -> main
+
+Script ended.
+Python script ran successfully. 
+Script started.
+Reading chat data from D:\Projects\JobFinder\backend\data\chat_data.json
+Fetched chat IDs
+Initiating emergency self destroy protocol...
+Starting Telegram client
+An error occurred: HTTPSConnectionPool(host='ouo.io', port=443): Max retries exceeded with url: /api/1QitLQLa?s=https://jobs.intel.com/en/job/-/-/599/75946682768****,https://whatsapp.com/channel/0029Va5HM3OEAKWJT2QLQt33** (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1006)')))
+Script ended.
+Python script ran successfully. 
+Server sent a very old message with ID 7462041463085041673, ignoring (see FAQ for details)
+Server sent a very old message with ID 7462041463085041669, ignoring (see FAQ for details)
+Security error while unpacking a received message: Server replied with a wrong session ID (see FAQ for details)
+Attempt 1 at connecting failed: TimeoutError: 
+Security error while unpacking a received message: Server replied with a wrong session ID (see FAQ for details)
+Script started.
+Reading chat data from D:\Projects\JobFinder\backend\data\chat_data.json
+Fetched chat IDs
+Initiating emergency self destroy protocol...
+Starting Telegram client
+An error occurred: HTTPSConnectionPool(host='ouo.io', port=443): Max retries exceeded with url: /api/1QitLQLa?s=https://lnkd.in/gk6NREfK (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1006)')))
+Script ended.
+Python script ran successfully. 
+Attempt 1 at connecting failed: TimeoutError: 
+Script started.
+Reading chat data from D:\Projects\JobFinder\backend\data\chat_data.json
+Fetched chat IDs
+Initiating emergency self destroy protocol...
+Starting Telegram client
+An error occurred: HTTPSConnectionPool(host='ouo.io', port=443): Max retries exceeded with url: /api/1QitLQLa?s=https://lnkd.in/dWSV4wvX,https://lnkd.in/dMarqqMZ (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1006)')))
+Script ended.
+Python script ran successfully. 
+Attempt 1 at connecting failed: OSError: [WinError 1232] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+Attempt 2 at connecting failed: OSError: [WinError 1232] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+Attempt 3 at connecting failed: OSError: [WinError 1232] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+Attempt 4 at connecting failed: OSError: [WinError 1232] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+Attempt 5 at connecting failed: OSError: [WinError 1232] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+Attempt 6 at connecting failed: OSError: [WinError 1232] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+Script started.
+Reading chat data from D:\Projects\JobFinder\backend\data\chat_data.json
+Fetched chat IDs
+Initiating emergency self destroy protocol...
+Starting Telegram client
+An error occurred: Connection to Telegram failed 5 time(s)
+Script ended.
+Python script ran successfully. 
