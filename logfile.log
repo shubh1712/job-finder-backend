@@ -4105,3 +4105,27 @@ To https://github.com/shubh1712/job-finder-backend.git
 
 Script ended.
 Python script ran successfully. 
+Attempt 1 at connecting failed: TimeoutError: 
+Script started.
+Reading chat data from D:\Projects\JobFinder\backend\data\chat_data.json
+Fetched chat IDs
+Initiating emergency self destroy protocol...
+Starting Telegram client
+Disconnecting Telegram client
+Writing data to D:\Projects\JobFinder\backend\data\main_messages1.json
+New instance of Robo created and data saved
+Running git add
+
+
+Running git commit
+[main 076de4c] Automated commit from script - Updated Data
+ 3 files changed, 238 insertions(+), 137 deletions(-)
+
+
+Running git push
+
+To https://github.com/shubh1712/job-finder-backend.git
+   dbe763d..076de4c  main -> main
+
+Script ended.
+Python script ran successfully. 
