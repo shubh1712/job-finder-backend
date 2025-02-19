@@ -4577,3 +4577,27 @@ Starting Telegram client
 An error occurred: Connection to Telegram failed 5 time(s)
 Script ended.
 Python script ran successfully. 
+Script started.
+Reading chat data from D:\Projects\JobFinder\backend\data\chat_data.json
+Fetched chat IDs
+Initiating emergency self destroy protocol...
+Starting Telegram client
+Disconnecting Telegram client
+Writing data to D:\Projects\JobFinder\backend\data\main_messages1.json
+New instance of Robo created and data saved
+Running git add
+
+
+Running git commit
+[main 70d42cf] Automated commit from script - Updated Data
+ 3 files changed, 434 insertions(+), 497 deletions(-)
+
+
+Running git push
+
+To https://github.com/shubh1712/job-finder-backend.git
+   570b6e7..70d42cf  main -> main
+
+Script ended.
+Python script ran successfully. 
+Server resent the older message 7473178826552047617, ignoring
