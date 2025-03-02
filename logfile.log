@@ -4940,3 +4940,386 @@ Starting Telegram client
 An error occurred: HTTPSConnectionPool(host='ouo.io', port=443): Max retries exceeded with url: /api/1QitLQLa?s=https://bit.ly/4aUQLtY (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1006)')))
 Script ended.
 Python script ran successfully. 
+Script started.
+Reading chat data from D:\Projects\JobFinder\backend\data\chat_data.json
+Fetched chat IDs
+Initiating emergency self destroy protocol...
+Starting Telegram client
+Disconnecting Telegram client
+Writing data to D:\Projects\JobFinder\backend\data\main_messages1.json
+New instance of Robo created and data saved
+Running git add
+
+
+Running git commit
+[main 666406c] Automated commit from script - Updated Data
+ 3 files changed, 1106 insertions(+), 933 deletions(-)
+
+
+Running git push
+
+To https://github.com/shubh1712/job-finder-backend.git
+   218e797..666406c  main -> main
+
+Script ended.
+Python script ran successfully. 
+Server sent a very new message with ID 7476878683847159813, ignoring (see FAQ for details)
+Server sent a very new message with ID 7476878683990781953, ignoring (see FAQ for details)
+Server closed the connection: 0 bytes read on a total of 8 expected bytes
+Server sent a very new message with ID 7476884987928130569, ignoring (see FAQ for details)
+Server sent a very new message with ID 7476884987957841929, ignoring (see FAQ for details)
+Server sent a very new message with ID 7476884988030229505, ignoring (see FAQ for details)
+Server sent a very new message with ID 7476887603116251141, ignoring (see FAQ for details)
+Server sent a very new message with ID 7476887603116251137, ignoring (see FAQ for details)
+Server sent a very new message with ID 7476887643267295233, ignoring (see FAQ for details)
+Server sent a very new message with ID 7476887712637011969, ignoring (see FAQ for details)
+Server sent a very new message with ID 7476887712637011973, ignoring (see FAQ for details)
+Server sent a very new message with ID 7476890016605300753, ignoring (see FAQ for details)
+Server sent a very new message with ID 7476890016605427713, ignoring (see FAQ for details)
+Security error while unpacking a received message: Too many messages had to be ignored consecutively
+Server sent a very new message with ID 7476890016605427717, ignoring (see FAQ for details)
+Security error while unpacking a received message: Too many messages had to be ignored consecutively
+Server sent a very new message with ID 7476890016605300765, ignoring (see FAQ for details)
+Security error while unpacking a received message: Too many messages had to be ignored consecutively
+Server sent a very new message with ID 7476890016605300749, ignoring (see FAQ for details)
+Security error while unpacking a received message: Too many messages had to be ignored consecutively
+Server sent a very new message with ID 7476890089380724737, ignoring (see FAQ for details)
+Security error while unpacking a received message: Too many messages had to be ignored consecutively
+Server sent a very new message with ID 7476890089431149569, ignoring (see FAQ for details)
+Security error while unpacking a received message: Too many messages had to be ignored consecutively
+Server sent a very new message with ID 7476890238165836801, ignoring (see FAQ for details)
+Security error while unpacking a received message: Too many messages had to be ignored consecutively
+Server sent a very new message with ID 7476890796356640773, ignoring (see FAQ for details)
+Security error while unpacking a received message: Too many messages had to be ignored consecutively
+Server sent a very new message with ID 7476890796356640769, ignoring (see FAQ for details)
+Security error while unpacking a received message: Too many messages had to be ignored consecutively
+Server sent a very new message with ID 7476890801664596993, ignoring (see FAQ for details)
+Security error while unpacking a received message: Too many messages had to be ignored consecutively
+Server sent a very new message with ID 7476890830938607617, ignoring (see FAQ for details)
+Security error while unpacking a received message: Too many messages had to be ignored consecutively
+Server sent a very new message with ID 7476890848987307009, ignoring (see FAQ for details)
+Security error while unpacking a received message: Too many messages had to be ignored consecutively
+Server sent a very new message with ID 7476890865506057217, ignoring (see FAQ for details)
+Security error while unpacking a received message: Too many messages had to be ignored consecutively
+Server sent a very new message with ID 7476891111587169281, ignoring (see FAQ for details)
+Security error while unpacking a received message: Too many messages had to be ignored consecutively
+Server sent a very new message with ID 7476891516501459969, ignoring (see FAQ for details)
+Security error while unpacking a received message: Too many messages had to be ignored consecutively
+Server sent a very new message with ID 7476891649657460737, ignoring (see FAQ for details)
+Security error while unpacking a received message: Too many messages had to be ignored consecutively
+Server sent a very new message with ID 7476891663229853697, ignoring (see FAQ for details)
+Security error while unpacking a received message: Too many messages had to be ignored consecutively
+Server closed the connection: 0 bytes read on a total of 8 expected bytes
+Server sent a very new message with ID 7476891830300433413, ignoring (see FAQ for details)
+Server sent a very new message with ID 7476891830338947081, ignoring (see FAQ for details)
+Server sent a very new message with ID 7476891830383048705, ignoring (see FAQ for details)
+Server sent a very new message with ID 7476891830385319937, ignoring (see FAQ for details)
+Server sent a very new message with ID 7476892462558844929, ignoring (see FAQ for details)
+Server sent a very new message with ID 7476892850218783745, ignoring (see FAQ for details)
+Server sent a very new message with ID 7476892980712863765, ignoring (see FAQ for details)
+Server sent a very new message with ID 7476892980712863757, ignoring (see FAQ for details)
+Server sent a very new message with ID 7476892980712863749, ignoring (see FAQ for details)
+Server sent a very new message with ID 7476892980712863761, ignoring (see FAQ for details)
+Security error while unpacking a received message: Too many messages had to be ignored consecutively
+Server sent a very new message with ID 7476892980712863745, ignoring (see FAQ for details)
+Security error while unpacking a received message: Too many messages had to be ignored consecutively
+Server sent a very new message with ID 7476892980712863753, ignoring (see FAQ for details)
+Security error while unpacking a received message: Too many messages had to be ignored consecutively
+Server sent a very new message with ID 7476893746029275149, ignoring (see FAQ for details)
+Security error while unpacking a received message: Too many messages had to be ignored consecutively
+Server sent a very new message with ID 7476893746029275153, ignoring (see FAQ for details)
+Security error while unpacking a received message: Too many messages had to be ignored consecutively
+Server sent a very new message with ID 7476893746029334529, ignoring (see FAQ for details)
+Security error while unpacking a received message: Too many messages had to be ignored consecutively
+Server sent a very new message with ID 7476893805273684993, ignoring (see FAQ for details)
+Security error while unpacking a received message: Too many messages had to be ignored consecutively
+Server sent a very new message with ID 7476893928451215369, ignoring (see FAQ for details)
+Security error while unpacking a received message: Too many messages had to be ignored consecutively
+Server sent a very new message with ID 7476893928451280897, ignoring (see FAQ for details)
+Security error while unpacking a received message: Too many messages had to be ignored consecutively
+Server sent a very new message with ID 7476895002475676673, ignoring (see FAQ for details)
+Security error while unpacking a received message: Too many messages had to be ignored consecutively
+Server sent a very new message with ID 7476895331831008257, ignoring (see FAQ for details)
+Security error while unpacking a received message: Too many messages had to be ignored consecutively
+Server sent a very new message with ID 7476896316262513665, ignoring (see FAQ for details)
+Security error while unpacking a received message: Too many messages had to be ignored consecutively
+Server sent a very new message with ID 7476896316265312257, ignoring (see FAQ for details)
+Security error while unpacking a received message: Too many messages had to be ignored consecutively
+Server sent a very new message with ID 7476896318200165377, ignoring (see FAQ for details)
+Security error while unpacking a received message: Too many messages had to be ignored consecutively
+Server sent a very new message with ID 7476896339137350657, ignoring (see FAQ for details)
+Security error while unpacking a received message: Too many messages had to be ignored consecutively
+Server sent a very new message with ID 7476896362301745153, ignoring (see FAQ for details)
+Security error while unpacking a received message: Too many messages had to be ignored consecutively
+Server sent a very new message with ID 7476896375965104129, ignoring (see FAQ for details)
+Security error while unpacking a received message: Too many messages had to be ignored consecutively
+Server sent a very new message with ID 7476896396311468033, ignoring (see FAQ for details)
+Security error while unpacking a received message: Too many messages had to be ignored consecutively
+Server sent a very new message with ID 7476897649597000709, ignoring (see FAQ for details)
+Security error while unpacking a received message: Too many messages had to be ignored consecutively
+Server sent a very new message with ID 7476897649597000705, ignoring (see FAQ for details)
+Security error while unpacking a received message: Too many messages had to be ignored consecutively
+Server sent a very new message with ID 7476897649596859405, ignoring (see FAQ for details)
+Security error while unpacking a received message: Too many messages had to be ignored consecutively
+Server sent a very new message with ID 7476897649596859409, ignoring (see FAQ for details)
+Security error while unpacking a received message: Too many messages had to be ignored consecutively
+Server sent a very new message with ID 7476897649596859421, ignoring (see FAQ for details)
+Security error while unpacking a received message: Too many messages had to be ignored consecutively
+Server sent a very new message with ID 7476897649596859413, ignoring (see FAQ for details)
+Security error while unpacking a received message: Too many messages had to be ignored consecutively
+Server sent a very new message with ID 7476897649596859425, ignoring (see FAQ for details)
+Security error while unpacking a received message: Too many messages had to be ignored consecutively
+Server sent a very new message with ID 7476897649596859417, ignoring (see FAQ for details)
+Security error while unpacking a received message: Too many messages had to be ignored consecutively
+Server sent a very new message with ID 7476897806144079873, ignoring (see FAQ for details)
+Security error while unpacking a received message: Too many messages had to be ignored consecutively
+Server sent a very new message with ID 7476897821824307201, ignoring (see FAQ for details)
+Security error while unpacking a received message: Too many messages had to be ignored consecutively
+Server sent a very new message with ID 7476898719013908481, ignoring (see FAQ for details)
+Security error while unpacking a received message: Too many messages had to be ignored consecutively
+Server sent a very new message with ID 7476899134742520833, ignoring (see FAQ for details)
+Security error while unpacking a received message: Too many messages had to be ignored consecutively
+Server sent a very new message with ID 7476899679869010961, ignoring (see FAQ for details)
+Security error while unpacking a received message: Too many messages had to be ignored consecutively
+Server sent a very new message with ID 7476899679869010953, ignoring (see FAQ for details)
+Security error while unpacking a received message: Too many messages had to be ignored consecutively
+Server sent a very new message with ID 7476899679869010957, ignoring (see FAQ for details)
+Security error while unpacking a received message: Too many messages had to be ignored consecutively
+Server sent a very new message with ID 7476899679869073409, ignoring (see FAQ for details)
+Security error while unpacking a received message: Too many messages had to be ignored consecutively
+Server closed the connection: 0 bytes read on a total of 8 expected bytes
+Server sent a very new message with ID 7476899874055778309, ignoring (see FAQ for details)
+Server sent a very new message with ID 7476899874092014601, ignoring (see FAQ for details)
+Server sent a very new message with ID 7476899874144954369, ignoring (see FAQ for details)
+Server sent a very new message with ID 7476899874155736065, ignoring (see FAQ for details)
+Server sent a very new message with ID 7476899874180448257, ignoring (see FAQ for details)
+Server sent a very new message with ID 7476899905273673729, ignoring (see FAQ for details)
+Server sent a very new message with ID 7476899956552382465, ignoring (see FAQ for details)
+Server sent a very new message with ID 7476899970149024769, ignoring (see FAQ for details)
+Server sent a very new message with ID 7476899970149024777, ignoring (see FAQ for details)
+Server sent a very new message with ID 7476899970149024773, ignoring (see FAQ for details)
+Security error while unpacking a received message: Too many messages had to be ignored consecutively
+Server sent a very new message with ID 7476900904623249413, ignoring (see FAQ for details)
+Security error while unpacking a received message: Too many messages had to be ignored consecutively
+Server sent a very new message with ID 7476900904623249409, ignoring (see FAQ for details)
+Security error while unpacking a received message: Too many messages had to be ignored consecutively
+Server sent a very new message with ID 7476900904623182857, ignoring (see FAQ for details)
+Security error while unpacking a received message: Too many messages had to be ignored consecutively
+Server sent a very new message with ID 7476900939557612545, ignoring (see FAQ for details)
+Security error while unpacking a received message: Too many messages had to be ignored consecutively
+Server sent a very new message with ID 7476901102728227841, ignoring (see FAQ for details)
+Security error while unpacking a received message: Too many messages had to be ignored consecutively
+Server sent a very new message with ID 7476901133853847553, ignoring (see FAQ for details)
+Security error while unpacking a received message: Too many messages had to be ignored consecutively
+Server sent a very new message with ID 7476901136921631745, ignoring (see FAQ for details)
+Security error while unpacking a received message: Too many messages had to be ignored consecutively
+Server sent a very new message with ID 7476901178140664833, ignoring (see FAQ for details)
+Security error while unpacking a received message: Too many messages had to be ignored consecutively
+Server sent a very new message with ID 7476901233345193985, ignoring (see FAQ for details)
+Security error while unpacking a received message: Too many messages had to be ignored consecutively
+Server sent a very new message with ID 7476901285837422593, ignoring (see FAQ for details)
+Security error while unpacking a received message: Too many messages had to be ignored consecutively
+Server sent a very new message with ID 7476901295947866113, ignoring (see FAQ for details)
+Security error while unpacking a received message: Too many messages had to be ignored consecutively
+Server sent a very new message with ID 7476901377466418177, ignoring (see FAQ for details)
+Security error while unpacking a received message: Too many messages had to be ignored consecutively
+Server sent a very new message with ID 7476901442576712705, ignoring (see FAQ for details)
+Security error while unpacking a received message: Too many messages had to be ignored consecutively
+Server sent a very new message with ID 7476901573341386753, ignoring (see FAQ for details)
+Security error while unpacking a received message: Too many messages had to be ignored consecutively
+Server sent a very new message with ID 7476901603756838913, ignoring (see FAQ for details)
+Security error while unpacking a received message: Too many messages had to be ignored consecutively
+Server sent a very new message with ID 7476901870562330625, ignoring (see FAQ for details)
+Security error while unpacking a received message: Too many messages had to be ignored consecutively
+Server sent a very new message with ID 7476901943543486465, ignoring (see FAQ for details)
+Security error while unpacking a received message: Too many messages had to be ignored consecutively
+Server sent a very new message with ID 7476902559198320641, ignoring (see FAQ for details)
+Security error while unpacking a received message: Too many messages had to be ignored consecutively
+Server sent a very new message with ID 7476902738473243649, ignoring (see FAQ for details)
+Security error while unpacking a received message: Too many messages had to be ignored consecutively
+Server sent a very new message with ID 7476905533091710977, ignoring (see FAQ for details)
+Security error while unpacking a received message: Too many messages had to be ignored consecutively
+Server sent a very new message with ID 7476905533091795969, ignoring (see FAQ for details)
+Security error while unpacking a received message: Too many messages had to be ignored consecutively
+Server sent a very new message with ID 7476905533091710981, ignoring (see FAQ for details)
+Security error while unpacking a received message: Too many messages had to be ignored consecutively
+Server sent a very new message with ID 7476905698605026305, ignoring (see FAQ for details)
+Security error while unpacking a received message: Too many messages had to be ignored consecutively
+Server sent a very new message with ID 7476905747913156609, ignoring (see FAQ for details)
+Security error while unpacking a received message: Too many messages had to be ignored consecutively
+Server sent a very new message with ID 7476905989476188169, ignoring (see FAQ for details)
+Security error while unpacking a received message: Too many messages had to be ignored consecutively
+Server sent a very new message with ID 7476905989476259841, ignoring (see FAQ for details)
+Security error while unpacking a received message: Too many messages had to be ignored consecutively
+Server sent a very new message with ID 7476906410765747201, ignoring (see FAQ for details)
+Security error while unpacking a received message: Too many messages had to be ignored consecutively
+Server sent a very new message with ID 7476906422130651137, ignoring (see FAQ for details)
+Security error while unpacking a received message: Too many messages had to be ignored consecutively
+Server sent a very new message with ID 7476906498869114881, ignoring (see FAQ for details)
+Security error while unpacking a received message: Too many messages had to be ignored consecutively
+Server sent a very new message with ID 7476906530660659201, ignoring (see FAQ for details)
+Security error while unpacking a received message: Too many messages had to be ignored consecutively
+Server sent a very new message with ID 7476908215840578573, ignoring (see FAQ for details)
+Security error while unpacking a received message: Too many messages had to be ignored consecutively
+Server sent a very new message with ID 7476908215840578565, ignoring (see FAQ for details)
+Security error while unpacking a received message: Too many messages had to be ignored consecutively
+Server sent a very new message with ID 7476908215840578577, ignoring (see FAQ for details)
+Security error while unpacking a received message: Too many messages had to be ignored consecutively
+Server sent a very new message with ID 7476908215840578581, ignoring (see FAQ for details)
+Security error while unpacking a received message: Too many messages had to be ignored consecutively
+Server sent a very new message with ID 7476908215840578585, ignoring (see FAQ for details)
+Security error while unpacking a received message: Too many messages had to be ignored consecutively
+Server sent a very new message with ID 7476908215840578593, ignoring (see FAQ for details)
+Security error while unpacking a received message: Too many messages had to be ignored consecutively
+Server sent a very new message with ID 7476908215840578589, ignoring (see FAQ for details)
+Security error while unpacking a received message: Too many messages had to be ignored consecutively
+Server sent a very new message with ID 7476908215840578561, ignoring (see FAQ for details)
+Security error while unpacking a received message: Too many messages had to be ignored consecutively
+Server sent a very new message with ID 7476908215840578569, ignoring (see FAQ for details)
+Security error while unpacking a received message: Too many messages had to be ignored consecutively
+Server sent a very new message with ID 7476908277072779265, ignoring (see FAQ for details)
+Security error while unpacking a received message: Too many messages had to be ignored consecutively
+Server sent a very new message with ID 7476908550812034049, ignoring (see FAQ for details)
+Security error while unpacking a received message: Too many messages had to be ignored consecutively
+Server sent a very new message with ID 7476908626826277889, ignoring (see FAQ for details)
+Security error while unpacking a received message: Too many messages had to be ignored consecutively
+Server sent a very new message with ID 7476910044098307081, ignoring (see FAQ for details)
+Security error while unpacking a received message: Too many messages had to be ignored consecutively
+Server sent a very new message with ID 7476910044098399237, ignoring (see FAQ for details)
+Security error while unpacking a received message: Too many messages had to be ignored consecutively
+Server sent a very new message with ID 7476910044098307085, ignoring (see FAQ for details)
+Security error while unpacking a received message: Too many messages had to be ignored consecutively
+Server sent a very new message with ID 7476910044098399233, ignoring (see FAQ for details)
+Security error while unpacking a received message: Too many messages had to be ignored consecutively
+Server sent a very new message with ID 7476910152022051841, ignoring (see FAQ for details)
+Security error while unpacking a received message: Too many messages had to be ignored consecutively
+Server closed the connection: 0 bytes read on a total of 8 expected bytes
+Server resent the older message 7476910708542183425, ignoring
+Server sent a very new message with ID 7476910709640763397, ignoring (see FAQ for details)
+Server sent a very new message with ID 7476910709671016449, ignoring (see FAQ for details)
+Server sent a very new message with ID 7476910709709603841, ignoring (see FAQ for details)
+Server sent a very new message with ID 7476910709716108289, ignoring (see FAQ for details)
+Server sent a very new message with ID 7476910709716121601, ignoring (see FAQ for details)
+Server sent a very new message with ID 7476911764955590657, ignoring (see FAQ for details)
+Server sent a very new message with ID 7476911764955507721, ignoring (see FAQ for details)
+Server sent a very new message with ID 7476911764955507725, ignoring (see FAQ for details)
+Server sent a very new message with ID 7476911764955507729, ignoring (see FAQ for details)
+Security error while unpacking a received message: Too many messages had to be ignored consecutively
+Server sent a very new message with ID 7476911807234727937, ignoring (see FAQ for details)
+Security error while unpacking a received message: Too many messages had to be ignored consecutively
+Server sent a very new message with ID 7476912254986856449, ignoring (see FAQ for details)
+Security error while unpacking a received message: Too many messages had to be ignored consecutively
+Server sent a very new message with ID 7476912254986856453, ignoring (see FAQ for details)
+Security error while unpacking a received message: Too many messages had to be ignored consecutively
+Server sent a very new message with ID 7476912335598215169, ignoring (see FAQ for details)
+Security error while unpacking a received message: Too many messages had to be ignored consecutively
+Server sent a very new message with ID 7476913196917867537, ignoring (see FAQ for details)
+Security error while unpacking a received message: Too many messages had to be ignored consecutively
+Server sent a very new message with ID 7476913196917867541, ignoring (see FAQ for details)
+Security error while unpacking a received message: Too many messages had to be ignored consecutively
+Server sent a very new message with ID 7476913196917940225, ignoring (see FAQ for details)
+Security error while unpacking a received message: Too many messages had to be ignored consecutively
+Server sent a very new message with ID 7476913196917940229, ignoring (see FAQ for details)
+Security error while unpacking a received message: Too many messages had to be ignored consecutively
+Server sent a very new message with ID 7476913222952390657, ignoring (see FAQ for details)
+Security error while unpacking a received message: Too many messages had to be ignored consecutively
+Server sent a very new message with ID 7476915177044862993, ignoring (see FAQ for details)
+Security error while unpacking a received message: Too many messages had to be ignored consecutively
+Server sent a very new message with ID 7476915177044973569, ignoring (see FAQ for details)
+Security error while unpacking a received message: Too many messages had to be ignored consecutively
+Server sent a very new message with ID 7476915177044862997, ignoring (see FAQ for details)
+Security error while unpacking a received message: Too many messages had to be ignored consecutively
+Server sent a very new message with ID 7476915177044863001, ignoring (see FAQ for details)
+Security error while unpacking a received message: Too many messages had to be ignored consecutively
+Server sent a very new message with ID 7476916202138362881, ignoring (see FAQ for details)
+Security error while unpacking a received message: Too many messages had to be ignored consecutively
+Server sent a very new message with ID 7476916231587727361, ignoring (see FAQ for details)
+Security error while unpacking a received message: Too many messages had to be ignored consecutively
+Server sent a very new message with ID 7476916861918450689, ignoring (see FAQ for details)
+Security error while unpacking a received message: Too many messages had to be ignored consecutively
+Server sent a very new message with ID 7476916880161070081, ignoring (see FAQ for details)
+Security error while unpacking a received message: Too many messages had to be ignored consecutively
+Server sent a very new message with ID 7476916974498269185, ignoring (see FAQ for details)
+Security error while unpacking a received message: Too many messages had to be ignored consecutively
+Server sent a very new message with ID 7476917042372826113, ignoring (see FAQ for details)
+Security error while unpacking a received message: Too many messages had to be ignored consecutively
+Server sent a very new message with ID 7476917730688384001, ignoring (see FAQ for details)
+Security error while unpacking a received message: Too many messages had to be ignored consecutively
+Server sent a very new message with ID 7476917730688317461, ignoring (see FAQ for details)
+Security error while unpacking a received message: Too many messages had to be ignored consecutively
+Server sent a very new message with ID 7476917730688317465, ignoring (see FAQ for details)
+Security error while unpacking a received message: Too many messages had to be ignored consecutively
+Server sent a very new message with ID 7476917730688384005, ignoring (see FAQ for details)
+Security error while unpacking a received message: Too many messages had to be ignored consecutively
+Server sent a very new message with ID 7476917730688317457, ignoring (see FAQ for details)
+Security error while unpacking a received message: Too many messages had to be ignored consecutively
+Server sent a very new message with ID 7476920746541824029, ignoring (see FAQ for details)
+Security error while unpacking a received message: Too many messages had to be ignored consecutively
+Server sent a very new message with ID 7476920746541824005, ignoring (see FAQ for details)
+Security error while unpacking a received message: Too many messages had to be ignored consecutively
+Server sent a very new message with ID 7476920746541824017, ignoring (see FAQ for details)
+Security error while unpacking a received message: Too many messages had to be ignored consecutively
+Server sent a very new message with ID 7476920746541824009, ignoring (see FAQ for details)
+Security error while unpacking a received message: Too many messages had to be ignored consecutively
+Server sent a very new message with ID 7476920746541824033, ignoring (see FAQ for details)
+Security error while unpacking a received message: Too many messages had to be ignored consecutively
+Server sent a very new message with ID 7476920746541824001, ignoring (see FAQ for details)
+Security error while unpacking a received message: Too many messages had to be ignored consecutively
+Server sent a very new message with ID 7476920746541824013, ignoring (see FAQ for details)
+Security error while unpacking a received message: Too many messages had to be ignored consecutively
+Server sent a very new message with ID 7476920746541895681, ignoring (see FAQ for details)
+Security error while unpacking a received message: Too many messages had to be ignored consecutively
+Server sent a very new message with ID 7476920762759859201, ignoring (see FAQ for details)
+Security error while unpacking a received message: Too many messages had to be ignored consecutively
+Server sent a very new message with ID 7476920860957463553, ignoring (see FAQ for details)
+Security error while unpacking a received message: Too many messages had to be ignored consecutively
+Server sent a very new message with ID 7476923077534396417, ignoring (see FAQ for details)
+Security error while unpacking a received message: Too many messages had to be ignored consecutively
+Server sent a very new message with ID 7476923077534396429, ignoring (see FAQ for details)
+Security error while unpacking a received message: Too many messages had to be ignored consecutively
+Server sent a very new message with ID 7476923077534396421, ignoring (see FAQ for details)
+Security error while unpacking a received message: Too many messages had to be ignored consecutively
+Server sent a very new message with ID 7476923077534396425, ignoring (see FAQ for details)
+Security error while unpacking a received message: Too many messages had to be ignored consecutively
+Server sent a very new message with ID 7476923084936342529, ignoring (see FAQ for details)
+Security error while unpacking a received message: Too many messages had to be ignored consecutively
+Server sent a very new message with ID 7476923089680706561, ignoring (see FAQ for details)
+Security error while unpacking a received message: Too many messages had to be ignored consecutively
+Server sent a very new message with ID 7476923093515553793, ignoring (see FAQ for details)
+Security error while unpacking a received message: Too many messages had to be ignored consecutively
+Server closed the connection: [WinError 1236] The network connection was aborted by the local system
+Attempt 1 at connecting failed: TimeoutError: 
+Server resent the older message 7476923781684271105, ignoring
+Server sent a very new message with ID 7476923782198947845, ignoring (see FAQ for details)
+Server sent a very new message with ID 7476923782226639873, ignoring (see FAQ for details)
+Server sent a very new message with ID 7476923782260013057, ignoring (see FAQ for details)
+Server sent a very new message with ID 7476923782261254145, ignoring (see FAQ for details)
+Server sent a very new message with ID 7476923782263849985, ignoring (see FAQ for details)
+Server sent a very new message with ID 7476923782286611457, ignoring (see FAQ for details)
+Server closed the connection: [WinError 64] The specified network name is no longer available
+Server sent a very new message with ID 7476925084691732485, ignoring (see FAQ for details)
+Server sent a very new message with ID 7476925084728089609, ignoring (see FAQ for details)
+Server sent a very new message with ID 7476925084751982593, ignoring (see FAQ for details)
+Server sent a very new message with ID 7476925084753764353, ignoring (see FAQ for details)
+Server sent a very new message with ID 7476925084754400257, ignoring (see FAQ for details)
+Server sent a very new message with ID 7476925084759730177, ignoring (see FAQ for details)
+Server sent a very new message with ID 7476925084762926081, ignoring (see FAQ for details)
+Server sent a very new message with ID 7476925084764316673, ignoring (see FAQ for details)
+Server sent a very new message with ID 7476925150020422657, ignoring (see FAQ for details)
+Server sent a very new message with ID 7476925227777059841, ignoring (see FAQ for details)
+Security error while unpacking a received message: Too many messages had to be ignored consecutively
+Server sent a very new message with ID 7476926514945940481, ignoring (see FAQ for details)
+Security error while unpacking a received message: Too many messages had to be ignored consecutively
+Server sent a very new message with ID 7476926572490254337, ignoring (see FAQ for details)
+Security error while unpacking a received message: Too many messages had to be ignored consecutively
+Server closed the connection: [WinError 64] The specified network name is no longer available
+Attempt 1 at connecting failed: TimeoutError: 
+Server sent a very new message with ID 7476927926755806213, ignoring (see FAQ for details)
+Server sent a very new message with ID 7476927926786138121, ignoring (see FAQ for details)
+Server sent a very new message with ID 7476927926816644097, ignoring (see FAQ for details)
+Server sent a very new message with ID 7476927926820110337, ignoring (see FAQ for details)
+Server sent a very new message with ID 7476927926821617665, ignoring (see FAQ for details)
+Server sent a very new message with ID 7476927926824260609, ignoring (see FAQ for details)
+Server sent a very new message with ID 7476927926837540865, ignoring (see FAQ for details)
+Server sent a very new message with ID 7476927926874749953, ignoring (see FAQ for details)
+Server sent a very new message with ID 7476927926879081473, ignoring (see FAQ for details)
